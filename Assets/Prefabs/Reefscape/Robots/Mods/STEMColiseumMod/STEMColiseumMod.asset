@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 713155721937481dbf0332a6dcf52567, type: 3}
+  m_Name: STEMColiseumMod
+  m_EditorClassIdentifier: 
+  modpackName: STEM Coliseum Mod
+  modpackVersion: 1.0.0
+  authorName: Team 172 - Northern Force
+  description: This is the mod pack for the teams affiliated with the STEM Coliseum
+    of South Portland, Maine
+  robots:
+  - {fileID: 11400000, guid: a6e6e80edd0f7544db7ec900b6ce3d1b, type: 2}
